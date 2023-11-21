@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "phoneNumber": "+1234567890",
+      "moviesWatched": [
+        {
+          "title": "Inception",
+          "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+          "watchDate": "2019-06-15",
+          "rating": 8.8
+        },
+        {
+          "title": "The Dark Knight",
+          "description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+          "watchDate": "2020-07-20",
+          "rating": 9.0
+        }
+      ]
+    },
+    {
+      "phoneNumber": "+0987654321",
+      "moviesWatched": [
+        {
+          "title": "Interstellar",
+          "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+          "watchDate": "2021-01-10",
+          "rating": 8.6
+        },
+        {
+         "title":"Dunkirk", 
+          	"description":"Allied soldiers from Belgium, the British Empire, and France are surrounded by the German Army and evacuated during a fierce battle in World War II.", 
+          	"watchDate":"2021-05-22", 
+          	"rating" :7.9
+         }
+      ]
+    },
+    {
+     	"phoneNumber":"+1122334455", 
+    	"moviesWatched":[
+    		{
+    			"title":"The Prestige", 
+    			"description":"After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.", 
+    			"watchDate":"2021-08-30", 
+    			"rating":8.5
+    		}
+    	]
+    }
+  ]
+}
