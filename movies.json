@@ -6,7 +6,7 @@
 "showTimes": [{"time":"10:00", "availableSeats": ["A12", "B14",  "C14", "V19"]}, {"time":"13:00", "availableSeats": ["A12", "B14"]}, {"time":"16:00", "availableSeats": ["A12", "B14"]}, {"time":"19:00", "availableSeats": ["A12", "B14"]}],
 "rating": 8.3,
 "genre": ["Adventure", "Drama", "Sci-Fi"],
-"image": "<image_url>"
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThPi77n-Lzxli75Gpn99Ahvw7A68J7rD5_mCfksB8hLTOmxWPkzkm5Nc5ztYog8YQJdAQ&usqp=CAU"
 },
 {
 "title": "No Time To Die",
