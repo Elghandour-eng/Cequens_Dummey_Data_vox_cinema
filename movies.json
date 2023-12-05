@@ -1,25 +1,28 @@
 {
-  "movies": [
-    {
-      "title": "Dune",
-      "description": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people.",
-      "showTimes": ["10:00", "13:00", "16:00", "19:00"],
-      "rating": 8.3,
-      "genre": ["Adventure", "Drama", "Sci-Fi"]
-    },
-    {
-      "title": "No Time To Die",
-      "description": "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
-      "showTimes": ["11:30", "14:30", "17:30", "20:30"],
-      "rating": 7.6,
-      "genre": ["Action", "Adventure", "Thriller"]
-    },
-    {
-     	"title":"Venom: Let There Be Carnage",
-    	"description":"Eddie Brock attempts to reignite his career by interviewing serial killer Cletus Kasady, who becomes the host of the symbiote Carnage and escapes prison after a failed execution.",
-    	"showTimes":["12:00","15:00","18:00","21:00"],
-    	"rating" :6.4,
-    	"genre":["Action","Sci-Fi","Thriller"]
-    }
-  ]
+"movies": [
+{
+"title": "Dune",
+"description": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people.",
+"showTimes": [{"time":"10:00", "availableSeats": ["A12", "B14",  "C14", "V19"]}, {"time":"13:00", "availableSeats": ["A12", "B14"]}, {"time":"16:00", "availableSeats": ["A12", "B14"]}, {"time":"19:00", "availableSeats": ["A12", "B14"]}],
+"rating": 8.3,
+"genre": ["Adventure", "Drama", "Sci-Fi"],
+"image": "<image_url>"
+},
+{
+"title": "No Time To Die",
+"description": "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+"showTimes":[{"time":"11:30","availableSeats":["A12","B14"]},{"time":"14:30","availableSeats":["A12","B14"]},{"time":"17:30","availableSeats":["A12","B14"]},{"time":"20:30","availableSeats":["A12","B14"]}],
+"rating": 7.6,
+"genre":["Action","Adventure","Thriller"],
+"image": "<image_url>"
+},
+{
+"title":"Venom: Let There Be Carnage",
+"description":"Eddie Brock attempts to reignite his career by interviewing serial killer Cletus Kasady, who becomes the host of the symbiote Carnage and escapes prison after a failed execution.",
+"showTimes":[{"time":"12:00","availableSeats":["A12","B14"]},{"time":"15:00","availableSeats":["A12","B14"]},{"time":"18:00","availableSeats":["A12","B14"]},{"time":"21:00","availableSeats":["A12","B14"]}],
+"rating" :6.4,
+"genre":["Action","Sci-Fi","Thriller"],
+"image": "<image_url>"
+}
+]
 }
