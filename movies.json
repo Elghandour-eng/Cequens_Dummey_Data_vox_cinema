@@ -14,7 +14,7 @@
 "showTimes":[{"time":"11:30","availableSeats":["A12","B14"]},{"time":"14:30","availableSeats":["A12","B14"]},{"time":"17:30","availableSeats":["A12","B14"]},{"time":"20:30","availableSeats":["A12","B14"]}],
 "rating": 7.6,
 "genre":["Action","Adventure","Thriller"],
-"image": "<image_url>"
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb44WyYea9lrOEozTPjGBa48KfHDeO1PHX0w&usqp=CAU"
 },
 {
 "title":"Venom: Let There Be Carnage",
